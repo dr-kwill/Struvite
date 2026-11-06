@@ -1,0 +1,7 @@
+weights/
+*.pth
+*.pt
+*.zip
+__pycache__/
+*.pyc
+.venv/

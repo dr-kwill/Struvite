@@ -1,0 +1,36 @@
+{
+  "release": "v1.0.0",
+  "source_run": "convnext_tiny_patient5fold_20260804",
+  "files": [
+    {
+      "fold": 1,
+      "filename": "convnext_fold_1.pth",
+      "bytes": 111353588,
+      "sha256": "f06d79cad2623b04eca0f8ee0f0f5842d6844a6fcf49dd8e62e19b9940e1614a"
+    },
+    {
+      "fold": 2,
+      "filename": "convnext_fold_2.pth",
+      "bytes": 111353588,
+      "sha256": "94728248f5c833e075b809772cbfbf1e7b660b177bc64fc40493d3b39c739d0e"
+    },
+    {
+      "fold": 3,
+      "filename": "convnext_fold_3.pth",
+      "bytes": 111353588,
+      "sha256": "4eaaf37385e1e9ce9be667a33c11ed859fe31a5dd107fb13b5d6c242649954a3"
+    },
+    {
+      "fold": 4,
+      "filename": "convnext_fold_4.pth",
+      "bytes": 111353588,
+      "sha256": "07f299eb1e07be9ca7c0d1ed315d63c1d6cc346c697ce44b1f14528e3e91a4d5"
+    },
+    {
+      "fold": 5,
+      "filename": "convnext_fold_5.pth",
+      "bytes": 111353588,
+      "sha256": "a93c931dce2a180d1c11e8b25c095def08c25ce27ad5023c342de598494a5270"
+    }
+  ]
+}
